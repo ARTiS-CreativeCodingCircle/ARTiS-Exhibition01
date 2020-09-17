@@ -1,0 +1,16 @@
+{
+"companyName": "ARTiS",
+"productName": "exhibition-hall",
+"productVersion": "0.1",
+"dataUrl": "exhibition-hall01-5.data.unityweb",
+"wasmCodeUrl": "exhibition-hall01-5.wasm.code.unityweb",
+"wasmFrameworkUrl": "exhibition-hall01-5.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1"
+}
