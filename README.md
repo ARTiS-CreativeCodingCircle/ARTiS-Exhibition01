@@ -7,7 +7,7 @@
     - [キーボード](#chapter1-1)
     - [マウス](#chapter1-2)
 
-- [ARTiS](#chapter2)
+- [ARTiSについて](#chapter2)
 
 - [Author](#chapter3)
 
@@ -26,6 +26,7 @@
 - Aキー：カメラの方向から左に進む
 - Sキー：カメラの方向から後ろに進む
 - Dキー：カメラの方向から右に進む  
+
 また、**左Shiftキー**を押しながらキーを押すと移動速度が上昇します。
 
 <a id="chapter1-2"></a>
@@ -39,7 +40,7 @@
 
 <a id="chapter2"></a>
 
-# ARTiS
+# ARTiSについて
 我々はクリエイティブコーディングを行う、公立はこだて未来大学のサークルです。  
 より詳しい内容を知りたい方は[こちらのHP](https://artis-creativecodingcircle.github.io/)へどうぞ。  
 
